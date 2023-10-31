@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[Resume](https://www.notion.so/recent0/43942e846f9a46a5b3a2649592bfb2d1)
 - 🌱 I’m currently learning Back-end develop
 ### Tech Stack👀
  
